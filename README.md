@@ -7,18 +7,27 @@ This repository contains my C++ practice and implementations related to Binary S
 A Binary Search Tree is a hierarchical data structure where:
 
 The left subtree contains values smaller than the root.
+
 The right subtree contains values greater than the root.
+
 Both left and right subtrees follow the same BST properties.
+
 🎯 Purpose
 
 The purpose of this repository is to:
 
 Strengthen understanding of Binary Search Trees.
+
 Practice tree-based problem-solving in C++.
+
 Improve Data Structures and Algorithms (DSA) concepts.
+
 Build a structured collection of BST-related implementations.
+
 🛠️ Language Used
+
 C++
+
 📚 Concepts
 
 This repository focuses on understanding and practicing important concepts related to Binary Search Trees, including their structure, properties, and operations.
